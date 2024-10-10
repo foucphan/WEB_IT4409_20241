@@ -1,0 +1,7 @@
+Tuần 5. PHP
+Bài 1. Tạo ứng dụng web cho phép
+(1) Nhập thông tin: MSSV, Họ tên. Sau đó ghi dữ liệu này vào CSDL.
+(2) Hiển thị danh sách toàn bộ sinh viên trong CSDL dưới dạng bảng
+Nộp: mã nguồn PHP và video minh chứng (video có chứa minh họa chương trình, 
+thông tin máy tính, thời gian trên máy tính). Sinh viên tùy chọn hệ quản trị CSDL sử
+dụng.
